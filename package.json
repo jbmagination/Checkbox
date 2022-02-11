@@ -1,0 +1,26 @@
+{
+  "name": "checkbox",
+  "version": "1.0.0",
+  "description": "Reacts with ✅ and ❌ to every message in a channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmagination/Checkbox.git"
+  },
+  "author": "JBMagination",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jbmagination/Checkbox/issues"
+  },
+  "homepage": "https://github.com/jbmagination/Checkbox#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
